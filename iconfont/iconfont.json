@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "53949106",
+      "name": "开关",
+      "font_class": "switch-off",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "53949243",
+      "name": "开关",
+      "font_class": "switch-on",
+      "unicode": "eecd",
+      "unicode_decimal": 61133
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="switch-off" unicode="&#58969;" d="M724.38518507 80.59259307000002l-424.77037014 0a273.06666667 273.06666667 0 0 0 0 546.13333333l424.77037014 0a273.06666667 273.06666667 0 0 0 0-546.13333333z m-424.77037014 485.45185173A212.38518507 212.38518507 0 1 1 512 353.65925973000003a212.38518507 212.38518507 0 0 1-212.38518507 212.38518507z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="switch-on" unicode="&#61133;" d="M299.61481493 612.74074028l424.77037014 0a273.06666667 273.06666667 0 0 0 0-546.13333333l-424.77037014 0a273.06666667 273.06666667 0 0 0 0 546.13333333z m424.77037014-485.45185173A212.38518507 212.38518507 0 1 1 512 339.67407361999994a212.38518507 212.38518507 0 0 1 212.38518507-212.38518507z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
